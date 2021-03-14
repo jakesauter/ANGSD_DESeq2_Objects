@@ -1,8 +1,16 @@
-# **DESeq Objects**
+---
+title: "DESeq Objects"
+author: "Jake Sauter"
+date: "3/14/2021"
+output: 
+  html_document: 
+    toc: true
+    toc_float: false
+    keep_md: true
+editor_options: 
+  chunk_output_type: console
+---
 
-A report by **Jake Sauter**
-
-date: **3/14/2021**
 
 
 ## **Background: Creating DESeq2 Objects**

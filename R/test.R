@@ -1,0 +1,13 @@
+
+x <- 'test'
+
+y <- 'testing'
+
+x <- 'nope'
+
+x <- x + 1
+
+{
+  this_x <- 1
+  this_x <- this_x + 1
+}
